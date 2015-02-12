@@ -1,0 +1,2 @@
+# laundry
+Sistem Informasi Laundry
